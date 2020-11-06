@@ -24,7 +24,7 @@ if ($member_name == strtolower($username) && password_verify($password, $member-
 
 else
 {
-	echo "incorrect credentials";
+    echo "incorrect credentials";
 }
 
 ?>
