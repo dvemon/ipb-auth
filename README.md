@@ -1,4 +1,4 @@
 # ipb-auth
-Authorise Invision Community (IP.Board) logins with one PHP file.
+authorise Invision Community (IP.Board) logins with one php file
 
-Useful for sending POST requests from an external application.
+iseful for sending post requests from an external application
